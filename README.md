@@ -1,5 +1,3 @@
----
-
 # 🚀 DevOps Stage 1 — Automated Deployment Script (`deploy.sh`)
 
 ## 📖 Overview
@@ -153,5 +151,3 @@ This deletes:
 * [x] `README.md` explains usage, parameters, and cleanup
 * [x] Works with a new EC2 instance without manual prep
 * [x] Logs outputs and exits cleanly with `exit 0` on success
-
----
